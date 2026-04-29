@@ -109,11 +109,11 @@
 - **隐私设置页面**：提供个人信息收集、位置信息、消息通知、个性化推荐、数据共享等开关设置，用户可自主管理隐私权限。
 - **通用设置页面**：支持推送通知、自动登录、语言设置、主题设置、自动播放视频等功能设置，适配用户个性化使用习惯。
 
-![image]("[C:\Users\李冉\Pictures\Screenshots\屏幕截图 2026-04-29 122933.png](https://github.com/LiRan-01/1/blob/main/Screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-29%20122933.png)")
+![image]("(https://github.com/LiRan-01/1/blob/main/Screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-29%20122933.png)")
 
-![image]("[C:\Users\李冉\Pictures\Screenshots\屏幕截图 2026-04-29 122933.png](https://github.com/LiRan-01/1/blob/main/Screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-29%20122946.png)")
+![image]("[C:\Users\李冉\Pictures\Screenshots\屏幕截图 2026-04-29 122946.png](https://github.com/LiRan-01/1/blob/main/Screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-29%20122946.png)")
 
-![image]("[C:\Users\李冉\Pictures\Screenshots\屏幕截图 2026-04-29 122933.png](https://github.com/LiRan-01/1/blob/main/Screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-29%20122955.png)")
+![image]("[C:\Users\李冉\Pictures\Screenshots\屏幕截图 2026-04-29 122955.png](https://github.com/LiRan-01/1/blob/main/Screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-29%20122955.png)")
 
 ![image]("[C:\Users\李冉\Pictures\Screenshots\屏幕截图 2026-04-29 122933.png](https://github.com/LiRan-01/1/blob/main/Screenshots/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-29%20123003.png)")
 
